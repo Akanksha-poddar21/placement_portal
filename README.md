@@ -1,2 +1,2 @@
 # placement_portal
-welome to my placement portal website
+welcome to my placement portal website.
